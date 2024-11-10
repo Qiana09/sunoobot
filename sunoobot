@@ -1,0 +1,345 @@
+halo,selamat datang di sunoobot🙌
+
+Status: Free
+Limit: 80/80
+
+╭───✎ ⌜ *INFOBOT* ⌟
+│❒ .sewabot
+│❒ .store
+│❒ .owner
+╰─────────────────❒
+
+╭───✎ ⌜ *GROUP* ⌟ 
+│❒ .addalarm
+│❒ .absen
+│❒ .addbadword
+│❒ .addlist
+│❒ .addpoin
+│❒ .afk
+│❒ .antibadword
+│❒ .antibadwordnokick
+│❒ .antibot
+│❒ .antidelete
+│❒ .antilink
+│❒ .antilinknokick
+│❒ .antiluar
+│❒ .antiviewonce
+│❒ .antiwame
+│❒ .antiwamenokick
+│❒ .blacklist
+│❒ .delblacklist
+│❒ .listblacklist
+│❒ .resetblacklist
+│❒ .cekabsen
+│❒ .cekidgroup
+│❒ .cekpoint
+│❒ .ceksewa
+│❒ .ceksewabyid
+│❒ .cekwarn
+│❒ .createschedulecall
+│❒ .disablealarm
+│❒ .delalarm
+│❒ .delbadword
+│❒ .delete
+│❒ .deleteabsen
+│❒ .deletepoin
+│❒ .deletetotalpesan
+│❒ .dellist
+│❒ .delultahku
+│❒ .delwarn
+│❒ .demote
+│❒ .demotedetector
+│❒ .descgc
+│❒ .done
+│❒ .delalarm
+│❒ .gamemode
+│❒ .getlist
+│❒ .groupadmin
+│❒ .groupinfo
+│❒ .groupschedule 
+│❒ .groupsetting 
+│❒ .grouptime
+│❒ .hidetag
+│❒ .kick
+│❒ .left
+│❒ .levelling
+│❒ .linkgc
+│❒ .revokelink
+│❒ .list
+│❒ .listalarm
+│❒ .listbadword
+│❒ .listpoint
+│❒ .listtotalpesan
+│❒ .listultah
+│❒ .listwarn
+│❒ .mulaiabsen
+│❒ .mute
+│❒ .promote
+│❒ .promotedetector
+│❒ .proses
+│❒ .refreshgroup
+│❒ .resetalarm
+│❒ .resetbadword
+│❒ .resetlist
+│❒ .resetpoint
+│❒ .resettotalpesan
+│❒ .resetultahku
+│❒ .resetwarn
+│❒ .setdescgc
+│❒ .setnamegc
+│❒ .setopen
+│❒ .setclose
+│❒ .setppgc
+│❒ .setppgcpanjang
+│❒ .setproses
+│❒ .setdone
+│❒ .setwarn
+│❒ .setwelcome
+│❒ .setleft
+│❒ .setwelcometype
+│❒ .setlefttype
+│❒ .sider
+│❒ .tagall
+│❒ .tfpoint
+│❒ .totag
+│❒ .totalpesan
+│❒ .ultahku
+│❒ .updatealarm
+│❒ .vote
+│❒ .warn
+│❒ .welcome
+╰─────────────────❒
+
+╭───✎ ⌜ *AI* ⌟ 
+│❒ .ai    
+│❒ .aiimage
+│❒ .openai
+│❒ .voicechanger
+│❒ .voicejapan
+╰─────────────────❒
+
+╭───✎ ⌜ *GAME* ⌟ 
+│❒ .asahotak
+│❒ .buylimit
+│❒ .caklontong
+│❒ .dare
+│❒ .family100
+│❒ .hint
+│❒ .math
+│❒ .nyerah
+│❒ .redeem
+│❒ .sambungkata
+│❒ .siapakahaku
+│❒ .sloth
+│❒ .suit
+│❒ .susunkalimat
+│❒ .susunkata
+│❒ .susunlirik
+│❒ .tebakbendera
+│❒ .tebakbom
+│❒ .tebakchara
+│❒ .tebakgambar
+│❒ .tebakkata
+│❒ .tebaklagu
+│❒ .tebaklaguanime
+│❒ .tebaklagukpop
+│❒ .tekateki
+│❒ .tictactoe
+│❒ .tfbalance
+│❒ .truth
+│❒ .werewolf
+│❒ .buybalance 
+╰─────────────────❒
+
+╭───✎ ⌜ *RANDOM* ⌟ 
+│❒ .alay
+│❒ .apakah
+│❒ .cekkhodam
+│❒ .faktaunik
+│❒ .husbu
+│❒ .jadian
+│❒ .kapankah
+│❒ .katabijak
+│❒ .loli
+│❒ .pantun
+│❒ .ppcouple
+│❒ .puisi
+│❒ .quotesanime
+│❒ .randomanime
+│❒ .randommeme
+│❒ .randomnumber
+│❒ .randomtag
+│❒ .rate
+│❒ .siapakah
+│❒ .neko
+│❒ .waifu
+╰─────────────────❒ 
+
+╭───✎ ⌜ *STICKER* ⌟ 
+│❒ .attp
+│❒ .delsetwm
+│❒ .quickchat
+│❒ .qcinfo
+│❒ .semoji
+│❒ .semojimix
+│❒ .setwm
+│❒ .sticker
+│❒ .stickercircle
+│❒ .stickerinfo
+│❒ .smeme
+│❒ .snobg
+│❒ .stickerwm
+│❒ .takesticker
+│❒ .telestick
+│❒ .toimg
+│❒ .trigger
+│❒ .ttp
+╰─────────────────❒ 
+
+╭───✎ ⌜ *SEARCH* ⌟ 
+│❒ .alquranaudio
+│❒ .artinama
+│❒ .brainly
+│❒ .cuaca
+│❒ .cekidff
+│❒ .cekidml
+│❒ .dorama
+│❒ .google
+│❒ .googleimage
+│❒ .igstalk
+│❒ .jadwalshalat
+│❒ .lirik
+│❒ .otakudesuinfo
+│❒ .otakudesuongoing
+│❒ .otakudesu
+│❒ .pinterest
+│❒ .play
+│❒ .wikipedia
+│❒ .ytsearch
+╰─────────────────❒
+
+╭───✎ ⌜ *TOOLS* ⌟ 
+│❒ .blur
+│❒ .cekplatform
+│❒ .ehex
+│❒ .dhex
+│❒ .ebase64
+│❒ .dbase64
+│❒ .enc
+│❒ .dec
+│❒ .fakereply
+│❒ .hartatahta
+│❒ .kirim
+│❒ .nulis
+│❒ .folio
+│❒ .hd
+│❒ .ocr
+│❒ .polling
+│❒ .ptvtovideo
+│❒ .qrcode
+│❒ .qrcodereader
+│❒ .readmore
+│❒ .readviewonce
+│❒ .remini
+│❒ .removebackground
+│❒ .screenshot
+│❒ .shortlink
+│❒ .myemail
+│❒ .getemail
+│❒ .tomp3
+│❒ .tovn
+│❒ .toquickvideo
+│❒ .tourl
+│❒ .toviewonce
+│❒ .translate
+│❒ .tts
+│❒ .tts2
+│❒ .halah
+│❒ .hilih
+│❒ .huluh
+│❒ .heleh
+│❒ .holoh
+│❒ .vnlist
+│❒ .ytcomment
+╰─────────────────❒
+
+╭───✎ ⌜ *INFO* ⌟ 
+│❒ .cekpremium
+│❒ .infocovid
+│❒ .infogempa
+│❒ .infounsur
+│❒ .kodebahasa
+│❒ .leavenosewa
+│❒ .level
+│❒ .limit
+│❒ .balance
+│❒ .listban
+│❒ .listblock
+│❒ .listgroup
+│❒ .listgroupnosewa
+│❒ .listonline
+│❒ .listpremium
+│❒ .profile
+│❒ .status
+│❒ .topglobal
+│❒ .toplocal
+╰─────────────────❒ 
+
+╭───✎ ⌜ *DOWNLOAD* ⌟ 
+│❒ .facebook
+│❒ .igstory
+│❒ .igdl
+│❒ .igtv
+│❒ .igreel
+│❒ .mediafire
+│❒ .otakudesudl
+│❒ .pindl
+│❒ .spotify
+│❒ .threads
+│❒ .tiktoknowm
+│❒ .tiktokwm
+│❒ .tiktokmusic
+│❒ .twitterdl
+│❒ .ytmp3
+│❒ .ytmp4
+╰─────────────────❒ 
+
+╭───✎ ⌜ *GENERAL* ⌟
+│❒ .ping
+│❒ .runtime
+│❒ .infobot
+╰─────────────────❒
+
+╭───✎ ⌜ *TEXTMAKER* ⌟ 
+│❒ .blackpink
+│❒ .bear
+│❒ .cloud
+│❒ .neonlight
+│❒ .sand
+│❒ .glow
+│❒ .neon
+│❒ .window
+│❒ .sky
+│❒ .cartoon
+│❒ .spacetext
+│❒ .greenneon
+│❒ .bokeh
+│❒ .firework
+│❒ .narutologo
+│❒ .glitch
+│❒ .thor
+│❒ .wolf
+│❒ .phlogo
+│❒ .avangers
+│❒ .marvel
+│❒ .halloween
+│❒ .graffiti
+│❒ .colorneon
+│❒ .deadpool
+│❒ .digitalglitch
+│❒ .wetglass
+│❒ .watercolor
+│❒ .fflogo
+│❒ .pubglogo
+│❒ .thunder
+╰─────────────────❒
